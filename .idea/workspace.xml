@@ -9,12 +9,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
-    </list>
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -227,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601126468382</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Passed Test">
+      <created>1601127507068</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601127507068</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -247,10 +249,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1601054155437" />
-    <state x="204" y="0" key="CommitChangelistDialog2" timestamp="1601127389995">
+    <state x="204" y="0" key="CommitChangelistDialog2" timestamp="1601127501742">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="204" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601127389995" />
+    <state x="204" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601127501742" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1601055734325">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -287,10 +289,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1270" height="204" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1601124408187" />
-    <state x="283" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601126856641">
+    <state x="283" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601127606599">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="283" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601126856641" />
+    <state x="283" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601127606599" />
     <state width="300" height="82" key="javadoc.popup.new" timestamp="1601127107449">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
